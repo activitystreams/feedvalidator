@@ -15,6 +15,7 @@ import re
 # http://dmoz.org/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/Applications/RSS/Specifications/RSS1.0_Modules/
 namespaces = {
   "http://www.bloglines.com/about/specs/fac-1.0":   "access",
+  "http://activitystrea.ms/spec/1.0/":              "activity",
   "http://webns.net/mvcb/":                         "admin",
   "http://purl.org/rss/1.0/modules/aggregation/":   "ag",
   "http://purl.org/rss/1.0/modules/annotate/":      "annotate",
